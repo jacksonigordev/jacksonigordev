@@ -1,5 +1,5 @@
 # 👋 Olá, eu sou o Jackson Igor DEV!
-!(https://ibb.co/MkVhMWrJ)
+[!](https://imgur.com/a/VvX0wyx)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&width=500&lines=Desenvolvedor+Full-Stack;Apaixonado+por+Tecnologia;Entusiasta+de+Open-Source)](https://git.io/typing-svg)
 
 Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar soluções inovadoras. 🚀  
@@ -19,8 +19,8 @@ Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar
 ---
 
 ## 📬 **Entre em Contato**
-📧 **Email:** mailto:jackson_igor123@hotmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/jacksonigordev/ 
+📧 **Email:** jackson_igor123@hotmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/jacksonigordev
 
 ---
 
