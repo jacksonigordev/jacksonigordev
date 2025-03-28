@@ -7,8 +7,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&width=500&lines=Desenvolvedor+Full-Stack;Apaixonado+por+Tecnologia;Entusiasta+de+Open-Source)](https://git.io/typing-svg)
 
-Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e criar soluções inovadoras. 🚀  
-
 🔹 Atualmente estudando C#, .NET, MySQL e Microsoft Azure.
 
 🔹 Trabalhando em **projetos pessoais e colaborativos**.
